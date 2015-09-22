@@ -15,6 +15,7 @@
 		191D78431BB1A62B00DC6662 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 191D78411BB1A62B00DC6662 /* LaunchScreen.xib */; };
 		191D784F1BB1A62C00DC6662 /* qqTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 191D784E1BB1A62C00DC6662 /* qqTests.m */; };
 		191D785A1BB1A68E00DC6662 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 191D78591BB1A68E00DC6662 /* SecondViewController.m */; };
+		199D4BF51BB1A75D00B51D8C /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 199D4BF41BB1A75D00B51D8C /* ThirdViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		191D784E1BB1A62C00DC6662 /* qqTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = qqTests.m; sourceTree = "<group>"; };
 		191D78581BB1A68E00DC6662 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		191D78591BB1A68E00DC6662 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		199D4BF31BB1A75D00B51D8C /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ThirdViewController.h; path = ../../../../Documents/ThirdViewController.h; sourceTree = "<group>"; };
+		199D4BF41BB1A75D00B51D8C /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ThirdViewController.m; path = ../../../../Documents/ThirdViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +97,8 @@
 				191D78321BB1A62B00DC6662 /* Supporting Files */,
 				191D78581BB1A68E00DC6662 /* SecondViewController.h */,
 				191D78591BB1A68E00DC6662 /* SecondViewController.m */,
+				199D4BF31BB1A75D00B51D8C /* ThirdViewController.h */,
+				199D4BF41BB1A75D00B51D8C /* ThirdViewController.m */,
 			);
 			path = qq;
 			sourceTree = "<group>";
@@ -225,6 +230,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				191D785A1BB1A68E00DC6662 /* SecondViewController.m in Sources */,
+				199D4BF51BB1A75D00B51D8C /* ThirdViewController.m in Sources */,
 				191D783B1BB1A62B00DC6662 /* ViewController.m in Sources */,
 				191D78381BB1A62B00DC6662 /* AppDelegate.m in Sources */,
 				191D78351BB1A62B00DC6662 /* main.m in Sources */,
